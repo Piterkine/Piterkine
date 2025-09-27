@@ -6,7 +6,7 @@
 
 🎓 I have completed my BTech from Rajarshi Rananjay Sinh Institute of Management and Technology Amethi UP.
 
-⚡ Fun fact: I once built a full-stack application from scratch in under 27 hours for a Project!
+⚡ Fun fact: I once built a full-stack application from scratch in under 27 hours for a Project! <br>
 💬 Ask me about JavaScript, ExpressJs, NodeJs, Python, Selenium, Playwright, C++, Typescript, Gsap, Html/Css/SCSS/TailwindCss/Lenis.
 
 
